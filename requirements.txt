@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+sqlalchemy>=2.0
+pyodbc            # SQL Server (needs "ODBC Driver 18 for SQL Server" installed)
+# psycopg2-binary # use this instead if the database is PostgreSQL
+anthropic
+python-dotenv
+pandas
+openpyxl

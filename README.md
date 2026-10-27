@@ -1,3 +1,4 @@
+<img width="1500" height="900" alt="architecture" src="https://github.com/user-attachments/assets/17c5bf43-9236-4e63-a11f-0ba8af6d3bd6" />
 # LINE Production Report Collector
 
 Silently collects production reports posted in department LINE groups, turns them into structured data in SQL with AI, and sends **one consolidated report at the end of each day**.
